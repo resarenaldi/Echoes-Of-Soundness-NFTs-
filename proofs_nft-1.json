@@ -1,0 +1,8 @@
+{
+  "id": "nft-1",
+  "rarity": 3,
+  "rnd": "0x9f3a12b7c4e9",
+  "proof": "4e4aef53a21e0c9a5db44c983af72bb1d6f9f8fdb57e8bff5a0b7a3d6c91e2a4",
+  "salt": "mysalt",
+  "howToVerify": "Check sha3-256(rnd+id+salt) == proof"
+}
